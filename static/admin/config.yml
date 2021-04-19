@@ -3,7 +3,7 @@ backend:
   repo: dev-ahmedhany/intro-to-web-dev
   branch: master
 
-media_folder: content/assets
+media_folder: static/assets
 public_folder: /assets
 publish_mode: editorial_workflow
 

@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: dev-ahmedhany/intro-to-web-dev
   branch: master
 
 media_folder: static/assets

@@ -1,13 +1,12 @@
 import * as React from 'react'
 import { graphql } from 'gatsby'
 import Card from "../components/TOCCard";
+import TemplateWrapper from '../layouts'
 
-import "bootstrap/dist/css/bootstrap.css";
-import 'codemirror/lib/codemirror.css'
-import "prismjs/themes/prism-solarizedlight.css";
 import "./index.css";
 
 const IndexPage = ({data}) => (
+  <TemplateWrapper>
   <div className="index">
     <div className="jumbotron gradient">
       <h1>Intro to Web Dev</h1>
@@ -18,6 +17,7 @@ const IndexPage = ({data}) => (
       content={data.allMarkdownRemark.edges}
     />
   </div>
+  </TemplateWrapper>
 );
 
 export const query = graphql`

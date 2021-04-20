@@ -3,8 +3,8 @@ backend:
   repo: dev-ahmedhany/intro-to-web-dev
   branch: master
 
-media_folder: static/assets
-public_folder: /assets
+media_folder: static/images
+public_folder: /images
 publish_mode: editorial_workflow
 
 collections:
@@ -166,3 +166,26 @@ collections:
               name: "id"
               widget: "string"
               hint: "the tweet id appears in url"
+
+  - name: "lessons"
+    label: "Lessons"
+    folder: "lessons/"
+    extension: "md"
+    format: "frontmatter"
+    create: true
+    slug: "{{path}}"
+    identifier_field: path
+    summary: "{{title}}"
+    fields:
+      - label: "Path"
+        name: "path"
+        widget: "string"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Order"
+        name: "order"
+        widget: "number"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"

@@ -62,7 +62,7 @@ module.exports = {
           },
         },
         // Klipse version, defaults to '7.5.0'
-        klipseVersion: '7.10.6',
+        // klipseVersion: '7.10.6',
         // To load any external scripts you need, pass an array of URLs. The plugin will always load them before the klipse plugin
         // defaults to an empty Array
         // externalScripts: [],

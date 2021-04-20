@@ -50,7 +50,7 @@ module.exports = {
         // Klipse config, you can check it here
         // https://github.com/viebel/klipse#configuration
         klipseSettings: {
-          selector_eval_js: ".language-js",
+          selector_eval_js: ".language-javascript",
           selector_eval_html: ".language-html",
           codemirror_options_in: {
             lineWrapping: true,

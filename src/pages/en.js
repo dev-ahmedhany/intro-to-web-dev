@@ -5,7 +5,7 @@ import TemplateWrapper from '../layouts'
 
 import "./index.css";
 
-const IndexPage = ({data}) => (
+const IndexEnPage = ({data}) => (
   <TemplateWrapper>
   <div className="index">
     <div className="jumbotron gradient">
@@ -21,10 +21,10 @@ const IndexPage = ({data}) => (
 );
 
 export const query = graphql`
-query IndexPageQuery {
+query IndexEnPageQuery {
   allMarkdownRemark(
     sort: {fields: frontmatter___order}
-    filter: {frontmatter: {path: {regex: "/^(?!\\/en).*/"}}}
+    filter: {frontmatter: {path: {regex: "/^\\/en/"}}}
   ) {
     edges {
       node {
@@ -40,4 +40,4 @@ query IndexPageQuery {
 }`
 
 
-export default IndexPage;
+export default IndexEnPage;

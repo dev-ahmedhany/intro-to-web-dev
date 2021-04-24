@@ -117,7 +117,7 @@ Now you can add as many doggos as you want! Here's my example:
 
 <!-- locally you'll need to do /doggos.html without /intro-to-web-dev-v2/ -->
 
-<iframe class="doggos" height="595" title="Doggos" src="/intro-to-web-dev-v2/doggos.html" frameborder="no" allowtransparency="true"></iframe>
+<iframe class="doggos" height="595" title="Doggos" src="/doggos.html" frameborder="no" allowtransparency="true"></iframe>
 
 For your extra-credit project, here are some cool ways to expand this project:
 

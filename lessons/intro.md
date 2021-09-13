@@ -21,18 +21,10 @@ Lastly, this isn't a get-rich-quick scheme. Learning to code is hard and require
 
 ## Who Am I?
 
-![Ahmed Hany](/images/ahmed-hany.jpg)
+![Ahmed Hany](/images/dsc08489-720.jpg)
 
-My name is Brian Holt. I'm presently (as of writing) a cloud developer advocate at Microsoft. That means I talk to people why I think Azure is a pretty cool place to deploy your code. I write a lot of code demos and help with some open source libraries. I've taught a lot of lessons on [Frontend Masters](https://frontendmasters.com/teachers/brian-holt/) and used to be on the frontend development podcast [Front End Happy Hour](http://frontendhappyhour.com/). Previous to that, I was a senior or staff JavaScript and Node engineer at LinkedIn, Netflix, Reddit, Needle, KSL.com, and NuSkin.
-
-My biggest passions in life are people and experiences. I hope by going through this course that it can improve your life in some meaningful way and that you in turn can improve someone else's life. My beautiful wife and I live in Seattle, Washington in the United States of America with our cute little Havanese dog Luna. I'd almost always rather be traveling and have been fortunate to see over thirty countries in the past five years.
-
-Please catch up with me on social media, would love to chat:
-
-* [Twitter](https://twitter.com/holtbt)
-* [Instagram](https://www.instagram.com/briantholt/)
-* [GitHub](https://github.com/btholt)
-* [LinkedIn](https://www.linkedin.com/in/btholt/)
+انا احمد هاني , شغال حاليا ف شركة What'sCookin و الكورس من صنع Brian Holt \
+انا بحاول اصلح فيه واضيف اللغة العربي
 
 ## Why was this course created?
 

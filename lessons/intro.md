@@ -23,7 +23,7 @@ Lastly, this isn't a get-rich-quick scheme. Learning to code is hard and require
 
 ![Ahmed Hany](/images/dsc08489-720.jpg)
 
-انا احمد هاني , شغال حاليا ف شركة What'sCookin و الكورس من صنع Brian Holt \
+انا احمد هاني و الكورس من صنع Brian Holt \
 انا بحاول اصلح فيه واضيف اللغة العربي
 
 ## Why was this course created?

@@ -1,11 +1,13 @@
 ---
 path: /intro
-title: مقدمة في تطوير المواقع
+title: Introduction to the Course
 order: 0
 ---
-السلام عليكم في كورس مقدمة في تطوير المواقع. انا متحمس اني اشرح شوية ف ازاي تكون مطور مواقع. فالكورس دا هفترض انك صفر فالبرمجة. لكن عندك خلفية عن اساسيات الكومبيوتر : ازاي تتصفح علي الانترنت, ازاي تشغل الكومبيوتر ,ازاي تستعمل الماوس والكيبورد الخ..\
-\
-تقدر تعدي الدروس الي عدت عليك وبرضه المراجعة ممكن تكون مفيدة
+# Introduction to the Course
+
+Welcome to an intro to web development. I'm really excited to teach you a bit about how to become a web developer. In this course we assume you know absolutely nothing about writing code. We do assume that you have a basic grasp of how to operate your computer: how to browse the Internet, how to operate your operating system, how to use a keyboard and mouse, etc.
+
+You should be able to skip lessons you know. However the review can be helpful.
 
 ## Tips to Succeed In This Course
 
@@ -23,8 +25,9 @@ Lastly, this isn't a get-rich-quick scheme. Learning to code is hard and require
 
 ![Ahmed Hany](/images/dsc08489-720.jpg)
 
-انا احمد هاني و الكورس من صنع Brian Holt \
-انا بحاول اصلح فيه واضيف اللغة العربي
+My name is Ahmed Hany. I'm presently (as of writing) a Front-end developer at Whatscookin'. \
+\
+but this course originally made by Brian Holt.
 
 ## Why was this course created?
 

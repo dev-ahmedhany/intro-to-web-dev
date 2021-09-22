@@ -5,11 +5,11 @@ const doggos = document.querySelector(".doggos");
 function addNewDoggo() {
   const promise = fetch(DOG_URL);
   promise
-    .then(function(response) {
+    .then(function (response) {
       const processingPromise = response.json();
       return processingPromise;
     })
-    .then(function(processedResponse) {
+    .then(function (processedResponse) {
       const img = document.createElement("img");
       img.src = processedResponse.message;
       img.alt = "Cute doggo";

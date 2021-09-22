@@ -4,7 +4,7 @@ import Link from "gatsby-link";
 import Helmet from "react-helmet";
 
 import "bootstrap/dist/css/bootstrap.css";
-import 'codemirror/lib/codemirror.css'
+import "codemirror/lib/codemirror.css";
 import "prismjs/themes/prism-solarizedlight.css";
 import "./index.css";
 
@@ -24,13 +24,13 @@ const TemplateWrapper = ({ children }) => (
         {
           name: "description",
           content:
-            "Learn how to be a web developer! In this course we go over the basics of HTML, CSS, JavaScript, and other tools to learn how to be programmer."
+            "Learn how to be a web developer! In this course we go over the basics of HTML, CSS, JavaScript, and other tools to learn how to be programmer.",
         },
         {
           name: "keywords",
           content:
-            "computer science, javascript, css, html, web, web developer, web dev, cloud, node, node.js"
-        }
+            "computer science, javascript, css, html, web, web developer, web dev, cloud, node, node.js",
+        },
       ]}
     />
     <Header />
@@ -39,7 +39,7 @@ const TemplateWrapper = ({ children }) => (
 );
 
 TemplateWrapper.propTypes = {
-  children: PropTypes.func
+  children: PropTypes.func,
 };
 
 export default TemplateWrapper;

@@ -3,8 +3,6 @@ path: /intro
 title: Introduction to the Course
 order: 0
 ---
-# Introduction to the Course
-
 Welcome to an intro to web development. I'm really excited to teach you a bit about how to become a web developer. In this course we assume you know absolutely nothing about writing code. We do assume that you have a basic grasp of how to operate your computer: how to browse the Internet, how to operate your operating system, how to use a keyboard and mouse, etc.
 
 You should be able to skip lessons you know. However the review can be helpful.

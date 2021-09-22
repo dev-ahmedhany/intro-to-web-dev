@@ -17,6 +17,7 @@ collections:
     slug: "{{path}}"
     identifier_field: path
     summary: "{{title}}"
+    sortable_fields: ['order']
     fields:
       - label: "Path"
         name: "path"

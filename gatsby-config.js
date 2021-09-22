@@ -45,7 +45,7 @@ module.exports = {
       __key: "pages",
     },
     {
-      resolve: 'gatsby-plugin-klipse',
+      resolve: "gatsby-plugin-klipse",
       options: {
         // Klipse config, you can check it here
         // https://github.com/viebel/klipse#configuration
@@ -54,11 +54,11 @@ module.exports = {
           selector_eval_html: ".language-html",
           codemirror_options_in: {
             lineWrapping: true,
-            lineNumbers: true
+            lineNumbers: true,
           },
           codemirror_options_out: {
             lineWrapping: true,
-            lineNumbers: true
+            lineNumbers: true,
           },
         },
         // Klipse version, defaults to '7.5.0'
@@ -66,7 +66,7 @@ module.exports = {
         // To load any external scripts you need, pass an array of URLs. The plugin will always load them before the klipse plugin
         // defaults to an empty Array
         // externalScripts: [],
-      }
+      },
     },
     {
       resolve: `gatsby-transformer-remark`,
@@ -82,7 +82,7 @@ module.exports = {
               // base for generating different widths of each image.
               maxWidth: 800,
               linkImagesToOriginal: true,
-              sizeByPixelDensity: false
+              sizeByPixelDensity: false,
             },
           },
         ],

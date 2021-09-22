@@ -8,7 +8,7 @@ const LessonCard = ({ content, title }) => (
     <h1 className="lesson-title gradient">{title}</h1>
     <div className="lesson-content">
       <ol>
-        {content.map(lesson => (
+        {content.map((lesson) => (
           <li key={lesson.node.frontmatter.path}>
             <Link to={lesson.node.frontmatter.path}>
               {lesson.node.frontmatter.title}

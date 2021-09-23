@@ -29,7 +29,7 @@ but this course originally made by Brian Holt.
 
 ## Why was this course created?
 
-![Frontend Masters Logo](./images/FrontendMastersLogo.png)
+![Frontend Masters Logo](/images/FrontendMastersLogo.png)
 
 I love to teach. It's a challenging task that forces you to peel back all the knowledge you've gained so you can approach someone who lacks the same experience and terminology you have. It forces you to take amorphous concepts floating in your brain and crystalize them into solid concepts that you can describe. It forces you to acknowledge your gaps in knowledge because you'll begin to question things you know others will question. For me to ever master a concept, I have to teach it to someone else.
 

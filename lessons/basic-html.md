@@ -1,10 +1,9 @@
 ---
-title: "Basic HTML"
+path: /basic-html
+title: Basic HTML
 order: 3
-path: "/basic-html"
 ---
-
-We're going to start building our very first website. At first our website is going be pretty ugly but it's still going to be functional! We're going to be using the language HTML, or hypertext markup language. This isn't a programming language since it doesn't actually _do_ anything. It's like how English isn't a programming language either: you can't "run" English. Same idea with HTML: you can't "run" HTML. HTML is simply the language and pictures on the page. It's the static (which is another word for unchanging) content.
+We're going to start building our very first website. At first our website is going be pretty ugly but it's still going to be functional! We're going to be using the language HTML, or hypertext markup language. This isn't a programming language since it doesn't actually *do* anything. It's like how English isn't a programming language either: you can't "run" English. Same idea with HTML: you can't "run" HTML. HTML is simply the language and pictures on the page. It's the static (which is another word for unchanging) content.
 
 ## Tags
 
@@ -42,7 +41,7 @@ The above is correct.
 </h1>
 ```
 
-The above is incorrect. I can't close the div _before_ I close the h1 since the h1 was the last one I opened.
+The above is incorrect. I can't close the div *before* I close the h1 since the h1 was the last one I opened.
 
 ## Types of Tags
 
@@ -71,7 +70,7 @@ This is where comments can be useful. You can leave little notes in your code th
 
 ## Playground
 
-I've embedded a little widget here for you to play with the HTML elements we've talked about. This is through a website called [CodePen][codepen]. I use this site all the time and we'll use it a lot throughout this entire workshop for quick little demos and lessons. Instead of having to set up all your tools and such, this will give you quick access to run these demos online.
+I've embedded a little widget here for you to play with the HTML elements we've talked about. This is through a website called \[CodePen]. I use this site all the time and we'll use it a lot throughout this entire workshop for quick little demos and lessons. Instead of having to set up all your tools and such, this will give you quick access to run these demos online.
 
 On the left, you'll see the HTML that you can edit. On the right you'll see what that HTML looks like as if it was being run on a website. You can edit the left pane and on the right pane you'll instantly see it being displayed. Take some time to toy around with it and see what happens when you edit it and rearrange things. Learning comes easily during play. We'll get to making our own websites from scratch but this is a good place to start with and not get burdened down with some of the details.
 
@@ -110,9 +109,9 @@ On the left, you'll see the HTML that you can edit. On the right you'll see what
 
 <!-- images -->
 <div>
-  <img src="http://www.placepuppy.net/1p/100/100" alt="an adorable puppy" />
-  <img src="http://www.placepuppy.net/2p/100/100" alt="an adorable puppy" />
-  <img src="http://www.placepuppy.net/3p/100/100" alt="an adorable puppy" />
+  <img src="https://placekitten.com/200/287" alt="an adorable puppy" />
+  <img src="https://placekitten.com/200/286" alt="an adorable puppy" />
+  <img src="https://placekitten.com/200/138" alt="an adorable puppy" />
 </div>
 
 <!-- inputs -->
